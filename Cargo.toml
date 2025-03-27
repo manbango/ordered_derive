@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "json-array-derive",
+    "json-array-test"
+]
+resolver = "2"
